@@ -1,0 +1,29 @@
+# .streamlit/config.toml
+
+[theme]
+# Primary color for interactive elements like buttons, links, and accents
+primaryColor = "#FF0000"  # Bright red for primary actions
+
+# Background color for the main content area
+backgroundColor = "#000000"  # Black background for a dark mode look
+
+# Sidebar background color
+secondaryBackgroundColor = "#1C1C1C"  # Darker gray for the sidebar
+
+# Color for the text displayed throughout the app
+textColor = "#FFFFFF"  # White text for high contrast on dark background
+
+# Font used for all text in the app (You can use 'sans serif', 'serif', or 'monospace')
+font = "sans serif"
+
+# Background for the main content area (dark color)
+primaryBackground = "#000000"  # Black background for the main content
+
+# Text color for secondary text elements (subtitles, captions)
+secondaryTextColor = "#D3D3D3"  # Light gray text for secondary content
+
+# Button style customization
+buttonColor = "#FF0000"  # Red background for buttons
+buttonTextColor = "#FFFFFF"  # White text inside buttons
+[server]
+maxUploadSize = 1024
