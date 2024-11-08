@@ -1,6 +1,7 @@
 # 🚀 Regression and Classification Model Training App 📊
 
 Welcome to your all-in-one **machine learning app** built with **Streamlit**! This interactive tool empowers users of all skill levels to train, visualize, and evaluate regression and classification models with ease. Whether you're a beginner in data science or a seasoned pro, this app makes exploring models seamless and educational.
+Preview - https://classification-model-trainer-5es2y57zdbvugkpyb6gcvn.streamlit.app
 
 ## ✨ Features at a Glance
 
