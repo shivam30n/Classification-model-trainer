@@ -18,15 +18,11 @@ Welcome to your all-in-one **machine learning app** built with **Streamlit**! Th
 - **User-friendly interface** to make data preprocessing intuitive and efficient.
 
 ### 🤖 **Model Selection and Training**
-- Choose from popular **regression models**:
-  - Linear Regression
-  - Polynomial Regression
-  - Decision Tree Regressor
-  - Random Forest Regressor
-- Or pick from top **classification models**:
   - Logistic Regression
   - K-Nearest Neighbors (KNN)
   - Support Vector Machine (SVM)
+  - Kernel SVM
+  - Navie Bayes
   - Decision Tree Classifier
   - Random Forest Classifier
 - **Manual parameter tuning** and **automated hyperparameter search** for model optimization.
